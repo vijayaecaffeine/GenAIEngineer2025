@@ -8,3 +8,4 @@ tf.print(hello)
 
 from tensorflow import keras
 
+print(tf.version)
